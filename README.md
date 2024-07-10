@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hudhyfa/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1720-crawler-log-folder](https://github.com/hudhyfa/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/hudhyfa/Leetcode/tree/master/1803-average-waiting-time) |
 ## Hash Table
 |  |
@@ -39,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1642-water-bottles](https://github.com/hudhyfa/Leetcode/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/hudhyfa/Leetcode/tree/master/2645-pass-the-pillow) |
+## String
+|  |
+| ------- |
+| [1720-crawler-log-folder](https://github.com/hudhyfa/Leetcode/tree/master/1720-crawler-log-folder) |
+## Stack
+|  |
+| ------- |
+| [1720-crawler-log-folder](https://github.com/hudhyfa/Leetcode/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
