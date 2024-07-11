@@ -1,17 +1,17 @@
 function reverseParentheses(s: string): string {
-    while (s.includes("(")) {
-        let start: number = s.lastIndexOf("(");
-        let end: number = s.indexOf(")", start + 1);
-
-        s =
-            s.slice(0, start) +
-            s
-                .slice(start + 1, end)
-                .split("")
-                .reverse()
-                .join("") +
-            s.slice(end + 1);
+    let stack: string[] = [];
+    for(let char of s) {
+        if (char == ")") {
+            let tempStrRay: string[] = [];
+            while(stack[stack.length - 1] !== "(") {
+                tempStrRay.push(stack.pop());
+                if(stack.length < 1) break;
+            }
+            stack.pop();
+            for(let char of tempStrRay) stack.push(char);
+        } else {
+            stack.push(char);
+        }
     }
-
-    return s;
+    return stack.join('');
 };
