@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/hudhyfa/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/hudhyfa/Leetcode/tree/master/1803-average-waiting-time) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/hudhyfa/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2502-sort-the-people](https://github.com/hudhyfa/Leetcode/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hudhyfa/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/hudhyfa/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2502-sort-the-people](https://github.com/hudhyfa/Leetcode/tree/master/2502-sort-the-people) |
 ## Two Pointers
 |  |
 | ------- |
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hudhyfa/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2502-sort-the-people](https://github.com/hudhyfa/Leetcode/tree/master/2502-sort-the-people) |
 ## Linked List
 |  |
 | ------- |
@@ -48,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/hudhyfa/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/hudhyfa/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/hudhyfa/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2502-sort-the-people](https://github.com/hudhyfa/Leetcode/tree/master/2502-sort-the-people) |
 ## Stack
 |  |
 | ------- |
