@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/hudhyfa/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/hudhyfa/Leetcode/tree/master/1803-average-waiting-time) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/hudhyfa/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2486-most-frequent-even-element](https://github.com/hudhyfa/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/hudhyfa/Leetcode/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/hudhyfa/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/hudhyfa/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/hudhyfa/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2486-most-frequent-even-element](https://github.com/hudhyfa/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/hudhyfa/Leetcode/tree/master/2502-sort-the-people) |
 ## Two Pointers
 |  |
@@ -100,4 +102,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/hudhyfa/Leetcode/tree/master/0948-sort-an-array) |
+| [2486-most-frequent-even-element](https://github.com/hudhyfa/Leetcode/tree/master/2486-most-frequent-even-element) |
 <!---LeetCode Topics End-->
