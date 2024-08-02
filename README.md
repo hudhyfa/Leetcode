@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2306-create-binary-tree-from-descriptions](https://github.com/hudhyfa/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2486-most-frequent-even-element](https://github.com/hudhyfa/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/hudhyfa/Leetcode/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/hudhyfa/Leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/hudhyfa/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2365-percentage-of-letter-in-string](https://github.com/hudhyfa/Leetcode/tree/master/2365-percentage-of-letter-in-string) |
 | [2502-sort-the-people](https://github.com/hudhyfa/Leetcode/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/hudhyfa/Leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Stack
 |  |
 | ------- |
