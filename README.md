@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/hudhyfa/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/hudhyfa/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/hudhyfa/Leetcode/tree/master/1803-average-waiting-time) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/hudhyfa/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/hudhyfa/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2486-most-frequent-even-element](https://github.com/hudhyfa/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/hudhyfa/Leetcode/tree/master/2502-sort-the-people) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hudhyfa/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/hudhyfa/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/hudhyfa/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/hudhyfa/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2486-most-frequent-even-element](https://github.com/hudhyfa/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/hudhyfa/Leetcode/tree/master/2502-sort-the-people) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/hudhyfa/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/hudhyfa/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/hudhyfa/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/hudhyfa/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2365-percentage-of-letter-in-string](https://github.com/hudhyfa/Leetcode/tree/master/2365-percentage-of-letter-in-string) |
 | [2502-sort-the-people](https://github.com/hudhyfa/Leetcode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/hudhyfa/Leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -104,5 +107,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/hudhyfa/Leetcode/tree/master/0948-sort-an-array) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/hudhyfa/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2486-most-frequent-even-element](https://github.com/hudhyfa/Leetcode/tree/master/2486-most-frequent-even-element) |
 <!---LeetCode Topics End-->
