@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hudhyfa/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0829-subdomain-visit-count](https://github.com/hudhyfa/Leetcode/tree/master/0829-subdomain-visit-count) |
 | [0948-sort-an-array](https://github.com/hudhyfa/Leetcode/tree/master/0948-sort-an-array) |
 | [1720-crawler-log-folder](https://github.com/hudhyfa/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/hudhyfa/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hudhyfa/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0829-subdomain-visit-count](https://github.com/hudhyfa/Leetcode/tree/master/0829-subdomain-visit-count) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/hudhyfa/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/hudhyfa/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/hudhyfa/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0829-subdomain-visit-count](https://github.com/hudhyfa/Leetcode/tree/master/0829-subdomain-visit-count) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/hudhyfa/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/hudhyfa/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/hudhyfa/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0829-subdomain-visit-count](https://github.com/hudhyfa/Leetcode/tree/master/0829-subdomain-visit-count) |
 | [0948-sort-an-array](https://github.com/hudhyfa/Leetcode/tree/master/0948-sort-an-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/hudhyfa/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/hudhyfa/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
