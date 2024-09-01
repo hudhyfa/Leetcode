@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/hudhyfa/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/hudhyfa/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/hudhyfa/Leetcode/tree/master/1803-average-waiting-time) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/hudhyfa/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/hudhyfa/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/hudhyfa/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/hudhyfa/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1642-water-bottles](https://github.com/hudhyfa/Leetcode/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/hudhyfa/Leetcode/tree/master/1803-average-waiting-time) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/hudhyfa/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/hudhyfa/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/hudhyfa/Leetcode/tree/master/2645-pass-the-pillow) |
 ## Math
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/hudhyfa/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/hudhyfa/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2486-most-frequent-even-element](https://github.com/hudhyfa/Leetcode/tree/master/2486-most-frequent-even-element) |
+## Matrix
+|  |
+| ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/hudhyfa/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
