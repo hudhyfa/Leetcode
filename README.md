@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/hudhyfa/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/hudhyfa/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/hudhyfa/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2283-sort-even-and-odd-indices-independently](https://github.com/hudhyfa/Leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/hudhyfa/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2486-most-frequent-even-element](https://github.com/hudhyfa/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/hudhyfa/Leetcode/tree/master/2502-sort-the-people) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/hudhyfa/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0948-sort-an-array](https://github.com/hudhyfa/Leetcode/tree/master/0948-sort-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/hudhyfa/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2283-sort-even-and-odd-indices-independently](https://github.com/hudhyfa/Leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2502-sort-the-people](https://github.com/hudhyfa/Leetcode/tree/master/2502-sort-the-people) |
 ## Linked List
 |  |
